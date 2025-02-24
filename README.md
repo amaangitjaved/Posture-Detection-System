@@ -5,3 +5,6 @@
 
 
 -Graduate Project.ipynb contains the code for AI stroke rehab assitant.
+
+
+-Link to the dataset: https://www.kaggle.com/datasets/sulaimanmuhammed/wlu-rehabilitation-posture
